@@ -7,3 +7,15 @@
 <p>
   O Proffy é uma plataforma Web e Mobile que têm como intuito conectar alunos a professores.
 </p>
+
+<h3>
+  🎨 Desing
+</h3>
+
+<h3> 🛠 Tecnologias
+ * Lua
+ * CoronaSDK (Solar 2d)
+</h3>
+
+### 🕹 Como Executar
+  * Instalar o Corona SDK e abrir o arquivo "main.lua"
